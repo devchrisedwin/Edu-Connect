@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react'
 import frame1 from '../assets/frame.png'
 import frame2 from '../assets/frame2.png'
-import frame3 from '../assets/frame3.png'
+import group1 from '../assets/group1.png'
 import frame4 from '../assets/frame4.png'
 import frame5 from '../assets/frame5.png'
 import frame6 from '../assets/frame6.png'
@@ -165,7 +165,7 @@ function Home() {
             <div className='flex justify-between border lg:w-[500px]
             w-[250px] m-[auto] mt-[30px] gap-2 mb-5'>
                 <img className='lg:w-[150px] w-[100px] lg:h-[120px] h-[50px]' src={frame1} alt="" />
-                <img className='lg:w-[150px] w-[100px] lg:h-[120px] h-[50px]' src={frame3} alt="" />
+                <img className='lg:w-[150px] w-[100px] lg:h-[120px] h-[50px]' src={group1} alt="" />
                 <img className='lg:w-[150px] w-[100px] lg:h-[120px] h-[50px]' src={frame2} alt="" />
             </div>
         </div>

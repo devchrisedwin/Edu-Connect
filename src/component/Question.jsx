@@ -68,7 +68,7 @@ function Question({menu, showSideBar, setShowSideBar}) {
         </div>
 
         <div className='flex items-center gap-2 ml-2 lg:pl-10 pl-5 mt-[-30px]'>
-          <img className='w-[30px] h-[30px] rounded-full' src={frame3} alt="" />
+          <img className='w-[30px] h-[30px] rounded-full' src={group1} alt="" />
           <div>
             <p className='text-[12px] font-semibold'>Nana Aishat</p>
             <p className='text-[10px]'>Grade 10</p>
@@ -87,7 +87,7 @@ function Question({menu, showSideBar, setShowSideBar}) {
         <div className='h-[200px]  border no-scrollbar'>
           <div className='flex flex-col pt-3 pl-10'>
           <div className='flex items-center gap-2 ml-2'>
-            <img className='w-[30px] h-[30px] rounded-full' src={frame3} alt="" />
+            <img className='w-[30px] h-[30px] rounded-full' src={group1} alt="" />
             <div>
               <p className='text-[12px] font-semibold'>Nana Aishat</p>
               <p className='text-[10px]'>Grade 10</p>
@@ -97,7 +97,7 @@ function Question({menu, showSideBar, setShowSideBar}) {
           </div>
           <div className='flex flex-col pt-3 pl-10'>
           <div className='flex items-center gap-2 ml-2'>
-            <img className='w-[30px] h-[30px] rounded-full' src={frame3} alt="" />
+            <img className='w-[30px] h-[30px] rounded-full' src={group1} alt="" />
             <div>
               <p className='text-[12px] font-semibold'>Nana Aishat</p>
               <p className='text-[10px]'>Grade 10</p>
@@ -107,7 +107,7 @@ function Question({menu, showSideBar, setShowSideBar}) {
           </div>
           <div className='flex flex-col pt-3 pl-10'>
           <div className='flex items-center gap-2 ml-2'>
-            <img className='w-[30px] h-[30px] rounded-full' src={frame3} alt="" />
+            <img className='w-[30px] h-[30px] rounded-full' src={group1} alt="" />
             <div>
               <p className='text-[12px] font-semibold'>Nana Aishat</p>
               <p className='text-[10px]'>Grade 10</p>
@@ -177,7 +177,7 @@ function Question({menu, showSideBar, setShowSideBar}) {
           <div>
             <div className='flex items-center justify-between'>
               <div className='flex items-center gap-2 ml-2'>
-                <img className='w-[30px] h-[30px] rounded-full' src={frame3} alt="" />
+                <img className='w-[30px] h-[30px] rounded-full' src={group1} alt="" />
                 <div>
                   <p className='text-[12px] font-semibold'>Nana Aishat</p>
                   <p className='text-[10px]'>Grade 10</p>
@@ -225,7 +225,7 @@ function Question({menu, showSideBar, setShowSideBar}) {
           <div>
             <div className='flex items-center justify-between'>
               <div className='flex items-center gap-2 ml-2'>
-                <img className='w-[30px] h-[30px] rounded-full' src={frame3} alt="" />
+                <img className='w-[30px] h-[30px] rounded-full' src={group1} alt="" />
                 <div>
                   <p className='text-[12px] font-semibold'>Nana Aishat</p>
                   <p className='text-[10px]'>Grade 10</p>
