@@ -26,7 +26,7 @@ function Navbar() {
           </ul>
         </div>
         <Link to='/signup'>
-          <div className='lg:mr-10 text-[9px] lg:text-[15px]'>
+          <div className='lg:mr-10 mr-1 text-[9px] lg:text-[15px]'>
             <button className='bg-[#202ED1] text-white font-bold rounded-full p-1 lg:w-[70px] w-[40px]'>Login</button>
           </div>
         </Link>
