@@ -49,7 +49,7 @@ function How() {
                             className='border-none outline-none w-[100%] p-2' />
                         </div>
                     </div>
-                    <div className='w-[150px] mx-[325px] rounded bg-[#202ED1]'>
+                    <div className='w-[150px] lg:mx-[325px] mx-[180px] rounded bg-[#202ED1]'>
                         <button className='p-1 w-[150px]  text-white font-semibold'>Post Question</button>
                     </div>
                     
@@ -85,7 +85,7 @@ function How() {
         <div className='border bg-white'>
 
             <div className='lg:flex lg:w-[95%] w-[100%] m-[auto] mt-10'>
-                <div className='flex-1 h-[350px]'>
+                <div className='flex-1 h-[350px] mt-[-70px]'>
                     <h1 className='pt-20 ml-[125px] pb-5 text-[#202ED1] font-semibold text-[20px]'>Sign Up</h1>
                     <div className='flex items-center p-3 gap-14'>
                         <div className='mt-[-80px] opacity-[0.9]'>
@@ -110,7 +110,7 @@ function How() {
                     </div>
                 </div>
                 <div className='flex-1 h-[350px]'>
-                    <div className='w-[65%] h-[100px] m-[auto] mt-15'>
+                    <div className='w-[65%] h-[100px] m-[auto] mt-10'>
                         <img src={frame17} alt="" />
                     </div>
                 </div>
