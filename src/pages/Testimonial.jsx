@@ -93,7 +93,7 @@ function Testimonial() {
                             </div>
                         </div>
 
-                        <p className='lg:w-[250px] w-[350px] font-bold lg:ml-7 ml-3 pt-4'>
+                        <p className='lg:w-[250px] w-[300px] font-bold lg:ml-7 ml-3 pt-4'>
                             This platform helped me ace my chemistry test, now I feel ready for university
                         </p>
                     </div>
@@ -107,7 +107,7 @@ function Testimonial() {
                             </div>
                         </div>
 
-                        <p className='lg:w-[250px] w-[350px] font-bold lg:ml-7 ml-3 pt-4'>
+                        <p className='lg:w-[250px] w-[300px] font-bold lg:ml-7 ml-3 pt-4'>
                             This platform helped me ace my chemistry test, now I feel ready for university
                         </p>
                     </div>
@@ -121,7 +121,7 @@ function Testimonial() {
                             </div>
                         </div>
 
-                        <p className='lg:w-[250px] w-[350px] font-bold lg:ml-7  ml-3 pt-4'>
+                        <p className='lg:w-[250px] w-[300px] font-bold lg:ml-7  ml-3 pt-4'>
                             This platform helped me ace my chemistry test, now I feel ready for university
                         </p>
                     </div>
@@ -135,7 +135,7 @@ function Testimonial() {
                             </div>
                         </div>
 
-                        <p className='lg:w-[250px] w-[350px] font-bold lg:ml-7 ml-3 pt-4'>
+                        <p className='lg:w-[250px] w-[300px] font-bold lg:ml-7 ml-3 pt-4'>
                             This platform helped me ace my chemistry test, now I feel ready for university
                         </p>
                     </div>
@@ -149,7 +149,7 @@ function Testimonial() {
                             </div>
                         </div>
 
-                        <p className='lg:w-[250px] w-[]350px font-bold lg:ml-7 ml-3 pt-4'>
+                        <p className='lg:w-[250px] w-[300px] font-bold lg:ml-7 ml-3 pt-4'>
                             This platform helped me ace my chemistry test, now I feel ready for university
                         </p>
                     </div>
@@ -163,7 +163,7 @@ function Testimonial() {
                             </div>
                         </div>
 
-                        <p className='lg:w-[250px] w-[350px] font-bold lg:ml-7 ml-3 pt-4'>
+                        <p className='lg:w-[250px] w-[300px] font-bold lg:ml-7 ml-3 pt-4'>
                             This platform helped me ace my chemistry test, now I feel ready for university
                         </p>
                     </div>
@@ -191,7 +191,7 @@ function Testimonial() {
             <div className='flex-1 h-[300px] p-10 lg:ml-[90px] ml-[-5px]'>
                 <h1 className='text-[25px] font-bold text-[#202ED1]'>About Us</h1>
                 <p className='w-[300px] font-bold mb-1'>Empowering African students through collaborative learning and academic growth.</p>
-                <p className='w-[350px] text-[13px] mb-1'>We aim to create a safe, supportive and engaging eviroment where african secondary students
+                <p className='w-[300px] text-[11px] mb-1'>We aim to create a safe, supportive and engaging eviroment where african secondary students
                 can connect, share knowledge and grow together.</p>
                 <button className='lg:w-[130px] w-[100px] text-[12px] mt-3 lg:mt-0 lg:text-[15px] bg-[#202ED1] font-bold text-white p-2 rounded-2xl'>Signup Now</button>
             </div>
