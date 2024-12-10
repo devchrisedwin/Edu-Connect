@@ -4,16 +4,16 @@ import { CiLock } from "react-icons/ci"
 
 import {Progress} from 'antd'
 
-import badge1 from '../assets/image2.png'
-import badge2 from '../assets/image5.png'
-import badge3 from '../assets/image4.png'
-import badge4 from '../assets/image6.png'
-import badge5 from '../assets/image9.png'
-import badge6 from '../assets/image3.png'
-import badge7 from '../assets/image9.png'
-import badge8 from '../assets/image7.png'
-import badge9 from '../assets/image8.png'
-import badge10 from '../assets/image10.png'
+import badge1 from '../../public/assets/image2.png'
+import badge2 from '../../public/assets/image5.png'
+import badge3 from '../../public/assets/image4.png'
+import badge4 from '../../public/assets/image6.png'
+import badge5 from '../../public/assets/image9.png'
+import badge6 from '../../public/assets/image3.png'
+import badge7 from '../../public/assets/image9.png'
+import badge8 from '../../public/assets/image7.png'
+import badge9 from '../../public/assets/image8.png'
+import badge10 from '../../public/assets/image10.png'
 
 function Badges({menu, showSideBar, setShowSideBar}) {
   return (

@@ -1,6 +1,6 @@
 import React from 'react'
-import profilepic from '../assets/profilepic.png'
-import taskdone from '../assets/taskdone.png'
+import profilepic from '../../public/assets/profilepic.png'
+import taskdone from '../../public/assets/taskdone.png'
 import { Form, Input } from 'antd'
 
 function Profile({menu, showSideBar, setShowSideBar}) {

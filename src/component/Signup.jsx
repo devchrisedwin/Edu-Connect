@@ -1,6 +1,6 @@
 import React from 'react'
-import profileIcon from '../assets/profile.png'
-import googleicon from '../assets/googleIcon.png'
+import profileIcon from '../../public/assets/profile.png'
+import googleicon from '../../public/assets/googleIcon.png'
 import Input from './Input'
 import { Link } from 'react-router-dom'
 

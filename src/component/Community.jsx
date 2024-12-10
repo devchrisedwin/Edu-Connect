@@ -7,9 +7,9 @@ import { MdMoreVert } from "react-icons/md";
 import { FaThumbsUp, FaThumbsDown } from "react-icons/fa";
 import { MdComment } from "react-icons/md";
 
-import frame3 from '../assets/group1.png'
-import frame1 from '../assets/frame.png'
-import frame2 from '../assets/book1.png'
+import frame3 from '../../public/assets/group1.png'
+import frame1 from '../../public/assets/frame.png'
+import frame2 from '../../public/assets/book1.png'
 
 import '../App.css'
 

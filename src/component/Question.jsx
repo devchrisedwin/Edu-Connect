@@ -7,7 +7,7 @@ import { MdMoreVert } from "react-icons/md";
 import { FaThumbsUp, FaThumbsDown } from "react-icons/fa";
 import { MdComment } from "react-icons/md";
 
-import group1 from '../assets/group1.png'
+import group1 from '../../public/assets/group1.png'
 import { QuestionModalContext } from '../context/QuestionContext';
 import Modal from './Modal'
 import { CommentContext } from '../context/CommentContext';
