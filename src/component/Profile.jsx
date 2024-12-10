@@ -1,5 +1,5 @@
 import React from 'react'
-import profilepic from '../assets/Profilepic.png'
+import profilepic from '../assets/profilepic.png'
 import taskdone from '../assets/taskdone.png'
 import { Form, Input } from 'antd'
 
