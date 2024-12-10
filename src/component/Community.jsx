@@ -56,8 +56,8 @@ function Community({menu, showSideBar, setShowSideBar}) {
                           className='border-none outline-none w-[100%] p-2' />
                       </div>
                   </div>
-                  <div className='w-[150px] mx-[325px] rounded bg-[#202ED1]'>
-                      <button className='p-1 w-[150px]  text-white font-semibold'>Post Question</button>
+                  <div className='w-[150px] lg:mx-[325px] mx-[180px] rounded bg-[#202ED1]'>
+                      <button className='p-1 lg:w-[150px] text-center text-white font-semibold'>Post Question</button>
                   </div>
                   
               </form>
@@ -81,7 +81,7 @@ function Community({menu, showSideBar, setShowSideBar}) {
         </div>
 
         <div className='pt-5  ml-11'>
-          <p className='w-[350px] text-[14px] ml-10'>
+          <p className='lg:w-[350px] w-[250px] lg:text-[14px] text-[11px] lg:ml-10 ml-5'>
             Good afternoon guys <br />
             I am preparing for my upcoming exam and i need answer to my question below. thank you <br />
             What is the process of photosynthesis 
@@ -98,7 +98,7 @@ function Community({menu, showSideBar, setShowSideBar}) {
               <p className='text-[10px]'>Grade 10</p>
             </div>
           </div>
-          <p className='w-[250px] pt-3 text-[14px] ml-10'>This is the answer to your question, more luck in your examination</p>
+          <p className='w-[250px] pt-3 lg:text-[14px] text-[11px] lg:ml-10 ml-5'>This is the answer to your question, more luck in your examination</p>
           </div>
           <div className='flex flex-col pt-3 pl-10'>
           <div className='flex items-center gap-2 ml-2'>
@@ -122,7 +122,7 @@ function Community({menu, showSideBar, setShowSideBar}) {
           </div>
         </div>
        
-        <div className='bg-white w-[500px]'>
+        <div className='bg-white lg:w-[500px]'>
           <form className='flex flex-col gap-4  pl-10'>
             <div>
               <h2 className='text-[14px] pt-3 font-semibold'>Write your answer</h2>
@@ -139,7 +139,7 @@ function Community({menu, showSideBar, setShowSideBar}) {
         
       </Modal>: ""
       }
-      <div className='w-[100%] h-[100px] ml-[-20px] rounded flex items-center justify-evenly'>
+      <div className='w-[100%] h-[100px] ml-[5px] rounded flex items-center justify-evenly'>
         <div className={`mt-5 lg:mt-0 ${!showSideBar ? 'ml-5' : ''}`}>
             <div className='flex items-center gap-2'>
               <p className='border p-1 rounded'
@@ -155,7 +155,7 @@ function Community({menu, showSideBar, setShowSideBar}) {
       </div>
 
       <div className='lg:flex items-center justify-evenly'>
-          <div className='border rounded p-1 flex items-center gap-2 w-[80%] lg:w-[400px] lg:ml-0 ml-3 lg:mt-0 mt-2'>
+          <div className='border rounded p-1 flex items-center gap-2 w-[90%] lg:w-[400px] lg:ml-0 ml-3 lg:mt-0 mt-2'>
             <FiSearch size={15} color="gray" />
             <input type='search' placeholder='search' className='outline-none border-none bg-transparent'/>
           </div>
@@ -199,7 +199,7 @@ function Community({menu, showSideBar, setShowSideBar}) {
             </div>
 
             <div className='pt-5  ml-11'>
-              <p className='w-[350px] text-[14px]'>
+              <p className='lg:w-[350px] w-[250px] lg:text-[14px] text-[11px]'>
                 Good afternoon guys <br /><br />
                 I am preparing for my upcoming exam and i need answer to my question below. thank you <br /><br />
                 What is the process of photosynthesis 
@@ -247,7 +247,7 @@ function Community({menu, showSideBar, setShowSideBar}) {
             </div>
 
             <div className='pt-5  ml-11'>
-              <p className='w-[350px] text-[14px]'>
+              <p className='lg:w-[350px] w-[250px] lg:text-[14px] text-[11px]'>
                 Good afternoon guys <br /><br />
                 I am preparing for my upcoming exam and i need answer to my question below. thank you <br /><br />
                 What is the process of photosynthesis 

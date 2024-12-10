@@ -12,7 +12,7 @@ function Navbar() {
   }
   return (
     <div className='lg:w-[70%] w-[100%] h-[50px] lg:border border-[#313131] m-[auto] fixed top-0 z-[1000]  bg-white rounded flex items-center justify-between'>
-        <div className='text-[#202ED1] font-bold ml-5 text-[8px] lg:text-[15px]'>EDU CONNECT</div>
+        <div className='text-[#202ED1] font-bold ml-3 text-[8px] lg:text-[15px]'>EDU CONNECT</div>
 
         <div>
           <ul className='flex text-[#808080] text-[9px] lg:text-[15px]'>
@@ -26,7 +26,7 @@ function Navbar() {
           </ul>
         </div>
         <Link to='/signup'>
-          <div className='mr-10  text-[9px] lg:text-[15px]'>
+          <div className='lg:mr-10 mr-5 text-[9px] lg:text-[15px]'>
             <button className='bg-[#202ED1] text-white font-bold rounded-full p-1 lg:w-[70px] w-[40px]'>Login</button>
           </div>
         </Link>
