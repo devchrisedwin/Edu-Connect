@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react'
 import {CircularProgressbar, buildStyles} from 'react-circular-progressbar'
 import "react-circular-progressbar/dist/styles.css"
 import frame1 from '../assets/frame.png'
-import frame2 from '../assets/frame2.png'
+import frame2 from '../assets/book1.png'
 import frame3 from '../assets/group1.png'
 
 import Headerbanner from '../component/Headerbanner';

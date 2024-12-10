@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import frame15 from '../assets/frame15.png'
+import frame15 from '../assets/learn.png'
 import { QuestionModalContext } from '../context/QuestionContext'
 
 

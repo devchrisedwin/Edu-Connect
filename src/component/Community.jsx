@@ -9,7 +9,7 @@ import { MdComment } from "react-icons/md";
 
 import frame3 from '../assets/group1.png'
 import frame1 from '../assets/frame.png'
-import frame2 from '../assets/frame2.png'
+import frame2 from '../assets/book1.png'
 
 import '../App.css'
 

@@ -1,8 +1,8 @@
 import React, {useContext} from 'react'
-import frame13 from '../assets/frame13.png'
-import frame14 from '../assets/frame14.png'
-import frame4 from '../assets/frame4.png'
-import frame21 from '../assets/frame21.png'
+import frame13 from '../assets/writing.png'
+import frame14 from '../assets/bike.png'
+import frame4 from '../assets/arrow.png'
+import frame21 from '../assets/dashome.png'
 import Footer from '../component/Footer'
 import Modal from '../component/Modal'
 
