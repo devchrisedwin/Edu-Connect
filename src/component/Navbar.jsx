@@ -21,12 +21,12 @@ function Navbar() {
             <Link to='/testimonials'><li className='lg:ml-3 ml-2 hover:font-bold text-black cursor-pointer'>Testimonials</li></Link>
             <li onClick={handleHome} title='go to homepage to see contact us form' className='lg:ml-3 ml-2 hover:font-bold text-black cursor-pointer'>Contact us</li>
             <Link to='/dashboard'>
-                <li className='lg:ml-3 ml-2 hover:font-bold text-black cursor-pointer'>Dashboard</li>
+                <li className='lg:ml-3 ml-1 hover:font-bold text-black cursor-pointer'>Dashboard</li>
             </Link>
           </ul>
         </div>
         <Link to='/signup'>
-          <div className='lg:mr-10 mr-5 text-[9px] lg:text-[15px]'>
+          <div className='lg:mr-10 text-[9px] lg:text-[15px]'>
             <button className='bg-[#202ED1] text-white font-bold rounded-full p-1 lg:w-[70px] w-[40px]'>Login</button>
           </div>
         </Link>
