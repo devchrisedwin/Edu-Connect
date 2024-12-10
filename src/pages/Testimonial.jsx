@@ -49,7 +49,7 @@ function Testimonial() {
                           className='border-none outline-none w-[100%] p-2' />
                       </div>
                   </div>
-                  <div className='w-[150px] mx-[325px] rounded bg-[#202ED1]'>
+                  <div className='w-[150px] lg:mx-[325px] mx-[180px] rounded bg-[#202ED1]'>
                       <button className='p-1 w-[150px]  text-white font-semibold'>Post Question</button>
                   </div>
                   
